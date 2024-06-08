@@ -6,3 +6,4 @@ zipfile36
 plotly
 jupyterthemes
 scikit-learn
+xgboost
